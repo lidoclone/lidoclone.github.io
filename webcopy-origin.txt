@@ -1,0 +1,1148 @@
+Uri: https://blog.lido.fi/content/images/2022/03/1200x675--40-.png
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\03\1200x675--40-.png
+Content Type: image/png
+
+Uri: https://blog.lido.fi/content/images/2022/04/Screenshot-2022-04-01-at-13.58.02.png
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\04\Screenshot-2022-04-01-at-13.58.02.png
+Content Type: image/png
+
+Uri: https://blog.lido.fi/content/images/2022/07/coversolw2-1.jpeg
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\07\coversolw2-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://blog.lido.fi/content/images/2022/09/solwave3header.jpg
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\09\solwave3header.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.lido.fi/content/images/2022/12/1920x1080--1-.jpeg
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\12\1920x1080--1-.jpeg
+Content Type: image/jpeg
+
+Uri: https://blog.lido.fi/content/images/2022/12/1920x1080--1-.jpg
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\12\1920x1080--1-.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.lido.fi/content/images/2022/12/1920x1080--2-.jpg
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\12\1920x1080--2-.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.lido.fi/content/images/2022/12/1920x1080--2-.png
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2022\12\1920x1080--2-.png
+Content Type: image/png
+
+Uri: https://blog.lido.fi/content/images/2023/01/1200x675.png
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2023\01\1200x675.png
+Content Type: image/png
+
+Uri: https://blog.lido.fi/content/images/2023/01/1920x1080.png
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2023\01\1920x1080.png
+Content Type: image/png
+
+Uri: https://blog.lido.fi/content/images/2023/02/IMG_4144-3.gif
+File Name: C:\Downloaded Web Sites\lido.fi\content\images\2023\02\IMG_4144-3.gif
+Content Type: image/gif
+
+Uri: https://lido.fi/
+File Name: C:\Downloaded Web Sites\lido.fi\index.htm
+Content Type: text/html
+
+Uri: https://lido.fi/bug-bounty
+File Name: C:\Downloaded Web Sites\lido.fi\bug-bounty.html
+Content Type: text/html
+
+Uri: https://lido.fi/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://lido.fi/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://lido.fi/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\lido.fi\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://lido.fi/ethereum
+File Name: C:\Downloaded Web Sites\lido.fi\ethereum.html
+Content Type: text/html
+
+Uri: https://lido.fi/faq
+File Name: C:\Downloaded Web Sites\lido.fi\faq.html
+Content Type: text/html
+
+Uri: https://lido.fi/governance
+File Name: C:\Downloaded Web Sites\lido.fi\governance.html
+Content Type: text/html
+
+Uri: https://lido.fi/images/sunsets/main-banner-sun.svg
+File Name: C:\Downloaded Web Sites\lido.fi\images\sunsets\main-banner-sun.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/images/sunsets/sun-ethereum.svg
+File Name: C:\Downloaded Web Sites\lido.fi\images\sunsets\sun-ethereum.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/images/sunsets/sun-kusama.svg
+File Name: C:\Downloaded Web Sites\lido.fi\images\sunsets\sun-kusama.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/images/sunsets/sun-polkadot.svg
+File Name: C:\Downloaded Web Sites\lido.fi\images\sunsets\sun-polkadot.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/images/sunsets/sun-polygon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\images\sunsets\sun-polygon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/images/sunsets/sun-solana.svg
+File Name: C:\Downloaded Web Sites\lido.fi\images\sunsets\sun-solana.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/kusama
+File Name: C:\Downloaded Web Sites\lido.fi\kusama.html
+Content Type: text/html
+
+Uri: https://lido.fi/lego
+File Name: C:\Downloaded Web Sites\lido.fi\lego.html
+Content Type: text/html
+
+Uri: https://lido.fi/lido-ecosystem
+File Name: C:\Downloaded Web Sites\lido.fi\lido-ecosystem.html
+Content Type: text/html
+
+Uri: https://lido.fi/lido-ecosystem?networks=ethereum
+File Name: C:\Downloaded Web Sites\lido.fi\lido-ecosystem-1.html
+Content Type: text/html
+
+Uri: https://lido.fi/lido-ecosystem?networks=polygon
+File Name: C:\Downloaded Web Sites\lido.fi\lido-ecosystem-2.html
+Content Type: text/html
+
+Uri: https://lido.fi/lido-ecosystem?networks=solana
+File Name: C:\Downloaded Web Sites\lido.fi\lido-ecosystem-3.html
+Content Type: text/html
+
+Uri: https://lido.fi/polkadot
+File Name: C:\Downloaded Web Sites\lido.fi\polkadot.html
+Content Type: text/html
+
+Uri: https://lido.fi/polygon
+File Name: C:\Downloaded Web Sites\lido.fi\polygon.html
+Content Type: text/html
+
+Uri: https://lido.fi/privacy-notice
+File Name: C:\Downloaded Web Sites\lido.fi\privacy-notice.html
+Content Type: text/html
+
+Uri: https://lido.fi/referral
+File Name: C:\Downloaded Web Sites\lido.fi\referral.html
+Content Type: text/html
+
+Uri: https://lido.fi/referral-terms
+File Name: C:\Downloaded Web Sites\lido.fi\referral-terms.html
+Content Type: text/html
+
+Uri: https://lido.fi/referral-terms-solana
+File Name: C:\Downloaded Web Sites\lido.fi\referral-terms-solana.html
+Content Type: text/html
+
+Uri: https://lido.fi/scorecard
+File Name: C:\Downloaded Web Sites\lido.fi\scorecard.html
+Content Type: text/html
+
+Uri: https://lido.fi/solana
+File Name: C:\Downloaded Web Sites\lido.fi\solana.html
+Content Type: text/html
+
+Uri: https://lido.fi/static/audits/chain-security_code_assessment_of_the_lido_smart_contracts.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\chain-security_code_assessment_of_the_lido_smart_contracts.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/chainsecurity_lido_staking_router_audit_report.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\chainsecurity_lido_staking_router_audit_report.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/lido_on_polygon_V2.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\lido_on_polygon_V2.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/MEV_boost_relay_allowist.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\MEV_boost_relay_allowist.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/mixBytes_lido_two-phase_voting_security.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\mixBytes_lido_two-phase_voting_security.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/oxorio_governance_crosschain_bridges_smart_contracts_security.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\oxorio_governance_crosschain_bridges_smart_contracts_security.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/oxorio_lido_L2_smart_contract_security.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\oxorio_lido_L2_smart_contract_security.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/report69.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\report69.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/sigma_prime_lido _dc4bc_security_assessment_report_v2_1_03_2023.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\sigma_prime_lido _dc4bc_security_assessment_report_v2_1_03_2023.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/audits/statemind_TRP_vesting_escrow_audit_report.pdf
+File Name: C:\Downloaded Web Sites\lido.fi\static\audits\statemind_TRP_vesting_escrow_audit_report.pdf
+Content Type: application/pdf
+
+Uri: https://lido.fi/static/fonts/Manrope-Bold.ttf
+File Name: C:\Downloaded Web Sites\lido.fi\static\fonts\Manrope-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://lido.fi/static/fonts/Manrope-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\lido.fi\static\fonts\Manrope-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://lido.fi/static/fonts/Manrope-Medium.ttf
+File Name: C:\Downloaded Web Sites\lido.fi\static\fonts\Manrope-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://lido.fi/static/fonts/Manrope-Regular.ttf
+File Name: C:\Downloaded Web Sites\lido.fi\static\fonts\Manrope-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://lido.fi/static/images/bug-bounty/bug-bounty.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\bug-bounty\bug-bounty.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/comingSoon/logo-color.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\comingSoon\logo-color.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/aave-aave-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\aave-aave-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/app1inch.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\app1inch.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/appcurve.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\appcurve.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/apporca.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\apporca.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/appphantom.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\appphantom.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/appraydium.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\appraydium.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/appserum.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\appserum.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/appstakeall.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\appstakeall.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/appuniswap.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\appuniswap.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/balancer-bal-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\balancer-bal-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/ecosystemledger-new.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\ecosystemledger-new.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/ecosystemmetamask.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\ecosystemmetamask.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/ecosystemquick_swap.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\ecosystemquick_swap.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/extracted-logos/maker-mkr-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\extracted-logos\maker-mkr-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/ldo-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\ldo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/stdot-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\stdot-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/steth-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\steth-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/stksm-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\stksm-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/stmatic-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\stmatic-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/stsol-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\stsol-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/wstdot-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\wstdot-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/wsteth-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\wsteth-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/wstksm-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\wstksm-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/xcdot-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\xcdot-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ecosystem/tokens/xcksm-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ecosystem\tokens\xcksm-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/apr-compounding.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\apr-compounding.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/apr-performance.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\apr-performance.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/apr-protocol-fee.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\apr-protocol-fee.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/apr-reward-socialization-model.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\apr-reward-socialization-model.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/dune-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\dune-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/eth.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\eth.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/step2-receive.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\step2-receive.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/step3-use-defi.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\step3-use-defi.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/ethereum-staking-info/step4-receive-reward.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\ethereum-staking-info\step4-receive-reward.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/governance/governance-process.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\governance-process.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/aragon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\aragon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/lego.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\lego.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/lido.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\lido.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/lnosg.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\lnosg.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/rcc.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\rcc.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/referral-program-committee.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\referral-program-committee.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/rewards.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\rewards.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/governance/logos/snapshot.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\governance\logos\snapshot.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/about/blog.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\about\blog.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/analytics/dune-analytics.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\analytics\dune-analytics.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/analytics/nancen-analytics.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\analytics\nancen-analytics.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/analytics/token-terminal.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\analytics\token-terminal.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/community/discord.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\community\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/community/research-forum.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\community\research-forum.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/community/telegram.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\community\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/community/twitter.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\community\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/developers/github-mobile.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\developers\github-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/developers/github.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\developers\github.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/aragon-voting.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\aragon-voting.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/easy-track-voting.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\easy-track-voting.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/governance-process.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\governance-process.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/lego.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\lego.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/lido-herald-v2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\lido-herald-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/register-key-proposals-v2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\register-key-proposals-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/research-forum.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\research-forum.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/governance/snapshot-voting.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\governance\snapshot-voting.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/networks/ethereum.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\networks\ethereum.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/networks/kusama.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\networks\kusama.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/networks/polkadot.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\networks\polkadot.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/networks/polygon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\networks\polygon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/networks/referral.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\networks\referral.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/networks/solana.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\networks\solana.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/node-operators/node-operator.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\node-operators\node-operator.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/header/twitter.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\header\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/icons/chevron-white.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\icons\chevron-white.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/icons/chevron.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\icons\chevron.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/audits/chainsecurity.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\audits\chainsecurity.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/audits/mixbytes.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\audits\mixbytes.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/audits/oxorio.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\audits\oxorio.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/audits/sigmaprime.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\audits\sigmaprime.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/audits/statemind.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\audits\statemind.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/community/background-mobile.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\community\background-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/community/background.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\community\background.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/community/discord-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\community\discord-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/community/person-1.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\community\person-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/community/person-2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\community\person-2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/lido-dao/governance-process.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\lido-dao\governance-process.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/lido-dao/key-governance-proposals.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\lido-dao\key-governance-proposals.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/lido-dao/lido-herald.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\lido-dao\lido-herald.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/lido-dao/research-forum.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\lido-dao\research-forum.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/arbitrum.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\arbitrum.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/beach-1.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\beach-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/beach-2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\beach-2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/ethereum-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\ethereum-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/kusama-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\kusama-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/optimism.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\optimism.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/plant-1.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\plant-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/plant-2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\plant-2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/polkadot-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\polkadot-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/polygon-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\polygon-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/solana-logo-v2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\solana-logo-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/stone-1.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\stone-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/network/stone-2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\network\stone-2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/notification-bot/telegram-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\notification-bot\telegram-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/stake/shadow.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\stake\shadow.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/stake/sun.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\stake\sun.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/01node.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\01node.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/attestant.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\attestant.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/banner/node-operator-icon.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\banner\node-operator-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/bridgetower.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\bridgetower.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/chain-safe.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\chain-safe.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/codefi.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\codefi.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/crypto-manufaktur.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\crypto-manufaktur.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/dsrv.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\dsrv.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/girnaar.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\girnaar.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/h2o.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\h2o.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/hashquark.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\hashquark.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/inf-stones.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\inf-stones.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/kiln.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\kiln.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/kukis-global.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\kukis-global.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/kytzu.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\kytzu.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/matrix-stake.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\matrix-stake.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/nethermind.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\nethermind.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/p2p.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\p2p.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/prysmatic-labs.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\prysmatic-labs.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/rock-logic.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\rock-logic.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/shardlabs.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\shardlabs.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/sigmaprime.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\sigmaprime.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/simply-vc.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\simply-vc.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/stakely-io.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\stakely-io.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/stakewithus.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\stakewithus.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/stakin.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\stakin.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-1.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-10.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-11.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-11.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-12.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-12.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-13.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-13.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-14.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-14.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-15.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-15.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-16.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-16.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-17.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-17.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-18.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-18.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-19.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-19.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-20.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-20.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-3.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-3.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-4.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-4.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-5.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-5.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-6.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-6.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/index/validators/validator-8.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\index\validators\validator-8.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/kusama-staking-info/kusama-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\kusama-staking-info\kusama-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/avatars/alex-lykov.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\alex-lykov.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/default.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\default.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/avatars/eugene-pshenichniy.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\eugene-pshenichniy.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/felix-lutsch.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\felix-lutsch.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/flo.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\flo.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/frontAlpha.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\frontAlpha.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/georgios-konstantopoulos.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\georgios-konstantopoulos.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/isidoros-passadis.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\isidoros-passadis.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/jacob.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\jacob.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/jk.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\jk.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/kasper-rasmussen.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\kasper-rasmussen.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/klim.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\klim.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/sam-kozin.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\sam-kozin.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/vasiliy-shapovalov.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\vasiliy-shapovalov.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/victor-suzdalev.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\victor-suzdalev.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/avatars/will-harborne.png
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\avatars\will-harborne.png
+Content Type: image/png
+
+Uri: https://lido.fi/static/images/lego/grant-logos/boulder.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\grant-logos\boulder.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/grant-logos/mountain.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\grant-logos\mountain.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/grant-logos/pebble.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\grant-logos\pebble.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/grant-logos/sandgrain.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\grant-logos\sandgrain.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/lego.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\lego.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/socials/telegram.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\socials\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/lego/socials/twitter.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\lego\socials\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/polkadot-staking-info/polkadot-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\polkadot-staking-info\polkadot-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/polygon-staking-info/polygon-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\polygon-staking-info\polygon-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/polygon-staking-info/step-1.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\polygon-staking-info\step-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/polygon-staking-info/step-2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\polygon-staking-info\step-2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/polygon-staking-info/step-3.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\polygon-staking-info\step-3.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/polygon-staking-info/step-4.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\polygon-staking-info\step-4.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/referral/ethereum-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\referral\ethereum-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/referral/logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\referral\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/referral/solana-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\referral\solana-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/scorecard/discussion.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\scorecard\discussion.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/scorecard/ethereum-scorecard.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\scorecard\ethereum-scorecard.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/solana-staking-info/solana-logo.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\solana-staking-info\solana-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/solana-staking-info/step1.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\solana-staking-info\step1.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/solana-staking-info/step2.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\solana-staking-info\step2.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/solana-staking-info/step3.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\solana-staking-info\step3.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/images/solana-staking-info/step4.svg
+File Name: C:\Downloaded Web Sites\lido.fi\static\images\solana-staking-info\step4.svg
+Content Type: image/svg+xml
+
+Uri: https://lido.fi/static/LIDO_press_kit.zip
+File Name: C:\Downloaded Web Sites\lido.fi\static\LIDO_press_kit.zip
+Content Type: application/zip
+
+Uri: https://lido.fi/terms-of-use
+File Name: C:\Downloaded Web Sites\lido.fi\terms-of-use.html
+Content Type: text/html
+
+Uri: https://lido.fi/window-env.js
+File Name: C:\Downloaded Web Sites\lido.fi\window-env.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/141-c588bc999ea7acfb.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\141-c588bc999ea7acfb.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/317-92db40d489967559.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\317-92db40d489967559.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/423-827cbf02fefc281a.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\423-827cbf02fefc281a.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/599-af488424e608442c.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\599-af488424e608442c.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/627-6560860e0ad9f935.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\627-6560860e0ad9f935.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/679-8004d801fc242b45.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\679-8004d801fc242b45.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/954-3d4b9d1307d9f523.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\954-3d4b9d1307d9f523.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/framework-5f4595e5518b5600.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\framework-5f4595e5518b5600.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/main-003cd0d26c0f7241.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\main-003cd0d26c0f7241.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/bug-bounty-551642d63a963e5f.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\bug-bounty-551642d63a963e5f.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/ethereum-550e2125ad9cf871.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\ethereum-550e2125ad9cf871.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/faq-adb1f886a7b1469f.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\faq-adb1f886a7b1469f.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/governance-d076d076f085ae9b.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\governance-d076d076f085ae9b.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/index-7b916ace572f7356.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\index-7b916ace572f7356.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/kusama-99176fbe431ab8db.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\kusama-99176fbe431ab8db.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/lego-f6650cc1429ec8bd.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\lego-f6650cc1429ec8bd.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/lido-ecosystem-046c8adee83cfcf2.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\lido-ecosystem-046c8adee83cfcf2.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/polkadot-ec0b2a0fefa79441.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\polkadot-ec0b2a0fefa79441.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/polygon-59a24806c9a8f1d3.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\polygon-59a24806c9a8f1d3.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/privacy-notice-96276ac3fa2f2045.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\privacy-notice-96276ac3fa2f2045.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/referral-e011f03b9179eb29.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\referral-e011f03b9179eb29.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/referral-terms-0415bb1006408226.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\referral-terms-0415bb1006408226.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/referral-terms-solana-2a7a911b0cc66049.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\referral-terms-solana-2a7a911b0cc66049.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/scorecard-78c6fdcbffe053df.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\scorecard-78c6fdcbffe053df.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/solana-265646352d15d75b.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\solana-265646352d15d75b.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/terms-of-use-b786247c0e81f5fd.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\terms-of-use-b786247c0e81f5fd.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/pages/_app-2129ac1a24d3a25d.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\pages\_app-2129ac1a24d3a25d.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/chunks/webpack-5e87d5198680ede2.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\chunks\webpack-5e87d5198680ede2.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/css/c4758a3b251f5d7c.css
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\css\c4758a3b251f5d7c.css
+Content Type: text/css
+
+Uri: https://lido.fi/_next/static/v1STH5Wi-vu38nmj5OrDp/_buildManifest.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\v1STH5Wi-vu38nmj5OrDp\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://lido.fi/_next/static/v1STH5Wi-vu38nmj5OrDp/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\lido.fi\_next\static\v1STH5Wi-vu38nmj5OrDp\_ssgManifest.js
+Content Type: application/javascript
+
